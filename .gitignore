@@ -1,0 +1,11 @@
+# scraped data cache & derived outputs (gigabytes at full scale — keep out of git)
+data/
+
+# python
+__pycache__/
+*.pyc
+
+# logs & os noise
+*.log
+nohup.out
+.DS_Store
